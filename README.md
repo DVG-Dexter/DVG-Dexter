@@ -12,6 +12,7 @@ I'm a Computer Science and Industrial Engineer
 
 
 
+
 ---
  <h2 align="left"> Languages and tools 📈 </h2>
 <p align="center">
