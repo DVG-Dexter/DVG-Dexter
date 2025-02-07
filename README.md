@@ -16,13 +16,6 @@ I'm a Computer Science and Industrial Engineer
 
 ### Languages and Tools 🛠 
 
-url
-<br/>
-
----
-
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
