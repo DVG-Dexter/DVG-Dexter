@@ -17,7 +17,11 @@ I'm a Computer Science and Industrial Engineer
 ### Languages and Tools 🛠 
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
   <div align="center"> 
      <a href="https://skillicons.dev">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DVG-Dexter&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
